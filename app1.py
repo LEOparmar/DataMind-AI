@@ -6,7 +6,7 @@ import gradio as gr
 import plotly.graph_objects as go
 from groq import Groq
 
-GROQ_API_KEY = os.environ["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"]
+GROQ_API_KEY = os.environ["GROQ_API_KEY"]
 
 def get_stock_data(symbol: str, period: str = "7d"):
     """Fetch stock price data for a given ticker symbol."""
