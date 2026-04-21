@@ -2,7 +2,7 @@
 
 > Ask anything about stocks, crypto, or weather — get instant AI analysis with live charts.
 
-[[![HuggingFace](https://huggingface.co/spaces/ManishLeo/DataMind-AI/tree/main)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Live%20Demo-HuggingFace-yellow)](https://huggingface.co/spaces/ManishLeo/DataMind-AI/tree/main)
 
 ---
 
