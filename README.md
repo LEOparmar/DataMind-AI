@@ -1,5 +1,3 @@
-# DataMind-AI
-
 # DataMind AI
 
 > Ask anything about stocks, crypto, or weather — get instant AI analysis with live charts.
