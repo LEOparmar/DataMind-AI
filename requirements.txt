@@ -1,0 +1,5 @@
+groq
+yfinance
+gradio
+plotly
+requests
